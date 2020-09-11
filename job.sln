@@ -43,7 +43,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test4.13andtest4.14", "test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test4.15andtest4.16", "test4.15andtest4.16\test4.15andtest4.16.csproj", "{4EB75C29-B17F-4F7C-8346-DC1628FFC87B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test4.17and4.18", "test4.17and4.18\test4.17and4.18.csproj", "{E3204AA2-0A9D-4436-826B-15C2DA4D162A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test4.17andtest4.18", "test4.17andtest4.18\test4.17andtest4.18.csproj", "{E3204AA2-0A9D-4436-826B-15C2DA4D162A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test4.19andtest4.20", "test4.19andtest4.20\test4.19andtest4.20.csproj", "{B9EBB6F0-F817-4147-BE0A-BA0B0217EEBF}"
 EndProject
