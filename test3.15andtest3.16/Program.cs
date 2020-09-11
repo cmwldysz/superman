@@ -43,7 +43,7 @@ namespace test3._15andtest3._16
             int mms = 60;
             int day = sumSS / days;
             int hh = (sumSS % days) / hhs;
-            int mm = (sumSS % days % hhs)/mms;
+            int mm = (sumSS % hhs)/mms;
             int ss = sumSS%mms;
             Console.WriteLine("{0}秒是{1}天{2}小时{3}分钟{4}秒",sumSS, day, hh, mm, ss);
             /////////////////////         计算半径为4的圆的面积和周长        /////////////////////
