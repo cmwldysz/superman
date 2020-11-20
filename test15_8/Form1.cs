@@ -26,10 +26,10 @@ namespace test15_8
                 for (int i = 0; i < 10; i++)
                 {
                     num += 10;
-                    textBox.Text += "\n 兔子跑了" + num + "米";
+                    textBox.Text += "\r\n 兔子跑了" + num + "米";
                     if (i == 9)
                     {
-                        textBox.Text += "\n 兔子在睡觉";
+                        textBox.Text += "\r\n 兔子在睡觉";
                         Thread.Sleep(3000);
                     }
                     else
@@ -37,7 +37,7 @@ namespace test15_8
                         Thread.Sleep(100);
                     }
                 }
-                textBox.Text += "\n 兔子到达终点";
+                textBox.Text += "\r\n 兔子到达终点";
             }
             public void Run(RichTextBox textBox)
             {
@@ -67,10 +67,10 @@ namespace test15_8
                 for (int i = 0; i < 10; i++)
                 {
                     num += 10;
-                    textBox.Text += "\n 乌龟跑了" + num + "米";
+                    textBox.Text += "\r\n 乌龟跑了" + num + "米";
                     Thread.Sleep(200);
                 }
-                textBox.Text += "\n 乌龟到达终点";
+                textBox.Text += "\r\n 乌龟到达终点";
             }
             public void Run(RichTextBox textBox)
             {

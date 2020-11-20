@@ -56,13 +56,13 @@
             this.textBox1.Location = new System.Drawing.Point(12, 67);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(205, 227);
+            this.textBox1.Size = new System.Drawing.Size(205, 311);
             this.textBox1.TabIndex = 1;
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("宋体", 16F);
-            this.button1.Location = new System.Drawing.Point(140, 347);
+            this.button1.Location = new System.Drawing.Point(137, 404);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(159, 52);
             this.button1.TabIndex = 2;
@@ -83,10 +83,10 @@
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("宋体", 16F);
-            this.textBox2.Location = new System.Drawing.Point(276, 67);
+            this.textBox2.Location = new System.Drawing.Point(282, 67);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(205, 227);
+            this.textBox2.Size = new System.Drawing.Size(205, 311);
             this.textBox2.TabIndex = 1;
             // 
             // label3
@@ -104,7 +104,7 @@
             this.richTextBox1.Font = new System.Drawing.Font("宋体", 16F);
             this.richTextBox1.Location = new System.Drawing.Point(599, 67);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(191, 227);
+            this.richTextBox1.Size = new System.Drawing.Size(191, 311);
             this.richTextBox1.TabIndex = 3;
             this.richTextBox1.Text = "";
             // 
@@ -123,14 +123,14 @@
             this.richTextBox2.Font = new System.Drawing.Font("宋体", 16F);
             this.richTextBox2.Location = new System.Drawing.Point(828, 67);
             this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(191, 227);
+            this.richTextBox2.Size = new System.Drawing.Size(191, 311);
             this.richTextBox2.TabIndex = 3;
             this.richTextBox2.Text = "";
             // 
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("宋体", 16F);
-            this.button2.Location = new System.Drawing.Point(724, 365);
+            this.button2.Location = new System.Drawing.Point(746, 425);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(159, 52);
             this.button2.TabIndex = 2;
